@@ -828,6 +828,11 @@ namespace AssetBundles
             }
         }
         #endregion
+        
+        public void TestHotfix()
+        {
+            Logger.Log("********** AssetbundleManager : Call TestHotfix in cs...");
+        }
     }
-
+    
 }
